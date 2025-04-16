@@ -70,8 +70,5 @@ That's enough. You're enough.
 ---
 
 <div align="center">
-  <p>If these words resonated with you and you'd like to connect, we're here.</p>
   <p>May your code be bug-free, but more importantly, may you be kind to yourself along the way.</p>
-  <br/>
-  <p>-<i>Sunil</i></p>
 </div>
